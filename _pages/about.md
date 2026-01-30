@@ -6,7 +6,7 @@ subtitle: Research Fellow, Harvard T.H. Chan School of Public Health<br>Epidemio
 
 profile:
   align: right
-  image: Headshot_Wenxin.jpg
+  image: Headshot_Wenxin.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
